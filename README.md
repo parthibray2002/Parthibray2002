@@ -13,10 +13,10 @@ I'm a **Strategic AI Developer** dedicated to bridging the gap between high-leve
 
 ### 🛠️ Tech Stack
 
-* **Languages:** 1.Python  2.SQL  3.C++ 4. C
-* * **AI & Data Science:** LlamaIndex • OpenAI (GPT-4) • Predictive Modeling (Random Forest/Bagging)
-* **Automation & Cloud:** Power Automate • SharePoint • GitHub Actions
-* **Databases:** MongoDB • MySQL 
+* **Languages:**  **1.Python**  **2.SQL**   **3.C++**   **4.C**
+* * **AI & Data Science:** **LlamaIndex** **• OpenAI (GPT-4)** **• Predictive Modeling (Random Forest/Bagging)**
+* **Automation & Cloud:** **Power Automate • SharePoint • GitHub Actions**
+* **Databases:** **• MongoDB • MySQL** 
 
 ### 📊 GitHub Statistics
 
