@@ -26,13 +26,16 @@ I'm a **Strategic AI Developer** dedicated to bridging the gap between high-leve
 ### 🎯 Featured Projects
 
 **🏗️ Digital Site Manager** An AI-powered "Digital Brain" for construction sites. Uses RAG and No-Code automation to synthesize SOPs and answer field queries with 100% citation accuracy.  
-[View Repository](#) 
+
+https://github.com/parthibray2002/SOP-BRD-Automation-using-Gen-AI-
 
 **📊 IPL Auction Price Predictor** Utilizing Machine Learning (Random Forest & Bagging) for my MS Thesis to predict player valuations in high-stakes cricket auctions.  
-[View Repository](#)
 
-**🤖 Agentic BRD/PRD Generator** An automated workflow using Copilot Studio to generate standardized business and product requirement documents.  
-[View Repository](#)
+https://github.com/parthibray2002/SOP-BRD-Automation-using-Gen-AI-
+
+**🤖 VR Forest using Unity**
+
+https://github.com/parthibray2002/VR-Forest-App-using-Unity
 
 ### 📈 Current Goals
 
