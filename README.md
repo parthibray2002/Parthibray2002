@@ -9,7 +9,7 @@ I'm a **Strategic AI Developer** dedicated to bridging the gap between high-leve
 * 💻 **The Hybrid Approach:** CS background with an MBA—building code that solves real business problems.
 * 🤖 **AI Enthusiast:** Deeply focused on Generative AI, Machine Learning, and Agentic Systems.
 * 🏗️ **Industry Focus:** Innovating within the Construction and Infrastructure sectors.
-* 🌱 **Continuously Learning:** Currently exploring advanced RAG techniques and sports analytics.
+* 🌱 **Continuously Learning:** Currently exploring advanced AI & automation techniques and data analytics tools.
 
 ### 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ I'm a **Strategic AI Developer** dedicated to bridging the gap between high-leve
 
  **7.Predictive Modeling (Random Forest/Bagging)** <img width="341" height="148" alt="image" src="https://github.com/user-attachments/assets/004ca79f-9b1f-40a1-8c9b-b39e1c943dd3" />
 
- **8.Power Automate** <img width="1280" height="1295" alt="image" src="https://github.com/user-attachments/assets/5436deae-00ad-4962-8157-8e0ad556d2b9" />
+ **8.Power Automate** <img width="213" height="237" alt="image" src="https://github.com/user-attachments/assets/5436deae-00ad-4962-8157-8e0ad556d2b9" />
 
  **9.SharePoint** <img width="213" height="237" alt="image" src="https://github.com/user-attachments/assets/c398d4a2-1979-42fa-93f8-113e0229c9ce" />
 
@@ -43,6 +43,13 @@ I'm a **Strategic AI Developer** dedicated to bridging the gap between high-leve
 
  **15.Colab** <img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/cec36d2c-59da-4e4a-8e7a-628a61e44e64" />
 
+ **16.Databricks** <img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/d8ba34e9-da14-4ce9-af50-1bfb7422aefb" />
+
+ **17.Spark** <img width="312" height="162" alt="image" src="https://github.com/user-attachments/assets/2896cd87-012d-4046-811c-95df45865f99" />
+ 
+ **18.Anaconda** <img width="355" height="142" alt="image" src="https://github.com/user-attachments/assets/9ef3fcdb-a496-4d7f-b8f7-ad1f08aa205a" />
+
+ **19.Jupyter Notebook** <img width="208" height="242" alt="image" src="https://github.com/user-attachments/assets/7366dbe0-bc20-45b6-a6b9-8195375aabbb" />
 
 ### 📊 GitHub Statistics
 
