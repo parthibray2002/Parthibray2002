@@ -44,9 +44,8 @@ I'm a **Strategic AI Developer** dedicated to bridging the gap between high-leve
 ### 📬 Get In Touch
 
 I'd love to connect and collaborate!
-* **Email:** your.email@example.com
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+* **Email:** parthibray2013@gmail.com
+* **LinkedIn:** www.linkedin.com/in/parthib-ray
 
 ### 💡 Fun Fact
 
